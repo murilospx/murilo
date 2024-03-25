@@ -1,0 +1,21 @@
+.quadrado {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+#azul {
+    background-color: rgb(56, 15, 240); /
+}
+
+#vermelho {
+    background-color: rgb(243, 17, 103);
+}
+
+#roxo {
+    background-color: rgb(129, 11, 184);
+}
+
+#rosa {
+    background-color: rgb(233, 10, 253);
+}
